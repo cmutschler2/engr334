@@ -1,6 +1,4 @@
 from math import *
-from multiprocessing.sharedctypes import Value
-from pickletools import read_float8
 import matplotlib.pyplot as plt
 plt.style.use('seaborn-whitegrid')
 import numpy as np
